@@ -1,0 +1,6 @@
+__pycache__/
+ocr_output/
+uocr_out/
+*.pyc
+.DS_Store
+Thumbs.db
