@@ -89,3 +89,7 @@ every man's life: good begets good, and evil leads to evil.
 We Chinese have a saying: "If a man plants melons, he will reap
 ```
 On the same image the Python `ocr` skill (PP-OCRv4) takes **6.3 s** end-to-end — `ocr-cpp` is ~45% faster and on this sample also keeps English word spacing better.
+
+---
+
+版权声明：作者：梅文海
