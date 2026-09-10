@@ -39,7 +39,7 @@ Run from this skill's root directory (where `SKILL.md` lives):
   --image "<path-to-image>"
 ```
 
-If the current directory is not the skill root, use absolute paths for `./bin/RapidOcrOnnx.exe` and `--models`. The skill lives at `C:\Users\<user>\.claude\skills\ocr-cpp`.
+If the current directory is not the skill root, use absolute paths for `./bin/RapidOcrOnnx.exe` and `--models`. The skill lives at `C:\Users\<user>\.agents\skills\ocr-cpp`.
 
 ### Useful options
 
