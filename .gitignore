@@ -3,5 +3,5 @@ __pycache__/
 Thumbs.db
 desktop.ini
 .DS_Store
-bin/
-models/
+logs/
+benchmark/*-result.*
