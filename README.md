@@ -66,3 +66,5 @@ MIT — see [LICENSE](LICENSE). The bundled engine and models originate from [Ra
 **wosens** — [https://github.com/wosens](https://github.com/wosens)
 
 Issues/PRs welcome at [https://github.com/wosens/OCR_Skill_CPP/issues](https://github.com/wosens/OCR_Skill_CPP/issues).
+
+2026.9.12
