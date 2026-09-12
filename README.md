@@ -1,5 +1,5 @@
 # OCR Skill — Native C++ (No Python) for Claude Code
-
+2026.9.12
 A [Claude Code](https://docs.claude.com/en/docs/claude-code) skill that recognizes text from images with a **self-contained native C++ engine** — **no Python, no pip, nothing to install**. Windows x64 only. Chinese + English + multilingual.
 
 Powered by the [RapidOcrOnnx](https://github.com/RapidAI/RapidOcrOnnx) engine (ONNX Runtime + PaddleOCR PP-OCRv3), rebuilt as `bin\RapidOcrDll.dll` (ONNX Runtime 1.15.1 + OpenCV 4.8.1, statically linked /MT, VS2022) and driven by the bundled CLI wrapper `bin\OcrTest.exe`. Recognized text is identical to the previous single-exe build, ~5× faster end-to-end.
@@ -67,4 +67,3 @@ MIT — see [LICENSE](LICENSE). The bundled engine and models originate from [Ra
 
 Issues/PRs welcome at [https://github.com/wosens/OCR_Skill_CPP/issues](https://github.com/wosens/OCR_Skill_CPP/issues).
 
-2026.9.12
